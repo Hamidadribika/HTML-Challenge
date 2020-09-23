@@ -1,0 +1,122 @@
+
+
+#head{
+margin-left: 450px;
+
+}
+
+header{
+    color: white;
+    font-size: 30px;
+}
+#tag{
+    color: white;
+    font-size: 15px;
+}
+
+.image{
+
+    width: 700px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+
+body{
+
+    background-color: #212b2d;
+}
+
+#container{
+    padding: 50px;
+    position: relative;
+    display: block;
+
+
+}
+
+#left-side{
+    display: inline;
+
+
+
+}
+
+#right-side{
+    display: flex;
+    flex-direction: column;
+ 
+}
+
+
+
+#menu{
+    background-color: #333d3f;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around ;
+    align-content: center;
+    padding: 15px;
+    margin-left: 318px;
+    margin-right: 318px;
+    margin-bottom: 10px;
+}
+#second-menu{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: left ;
+    align-items: left;
+    padding: 15px;
+
+}
+
+.form{
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+
+#hr1{
+    color: white;
+    margin-left: 325px;
+    margin-right: 325px;
+}
+#hr2{
+    color: white;
+    margin-left: 325px;
+    margin-right: 325px;
+}
+
+h4{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+p{
+    color: white;
+font-size: 12px;
+}
+
+#un-ordered-list{
+
+    list-style: square;
+    color: white;
+   text-decoration: underline;
+}
+
+
+#footer{
+
+    color: white;
+    font-size: 12PX;
+}
